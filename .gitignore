@@ -1,0 +1,62 @@
+# Archivos de compilación
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Archivos de usuario de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de depuración
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# Carpeta de configuración de Visual Studio
+.vs/
+
+# Publicaciones y paquetes
+*.publish.xml
+*.pubxml
+*.pubxml.user
+PublishProfiles/
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# Archivos generados por el diseñador
+*.Designer.cs
+
+# Archivos de base de datos locales
+*.mdf
+*.ldf
+
+# Configuración local
+*.local
+*.tmp
+*.temp
+
+# Archivos de Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# Archivos de pruebas unitarias
+TestResult*/
+*.trx
+
+# Otros
+Thumbs.db
+desktop.ini
